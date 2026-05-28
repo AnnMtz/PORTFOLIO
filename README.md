@@ -18,7 +18,8 @@ En mi último trabajo en ENCORA como web developer tuve la oportunidad de no sol
 
 [QA-Api-Stand-Test](https://github.com/AnnMtz/api_stand_tests)
 
-[QA-Manual-Project](https://github.com/AnnMtz/Proyecto-QA-Urban-Grocers)
+# QA Manual projects
+[QA-Urban-Grocers](https://github.com/AnnMtz/Proyecto-QA-Urban-Grocers)
 
 [Proyecto-Diseño-de-Urban-Routes](https://github.com/AnnMtz/Proyecto-QA-Dise-o-de-Urban-Routes)
 
