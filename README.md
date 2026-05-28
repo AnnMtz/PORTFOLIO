@@ -13,13 +13,12 @@ Algunos de mis proyectos incluyen pruebas funcionales a aplicaciones, así como 
 En mi último trabajo en ENCORA como web developer tuve la oportunidad de no solo realizar desarrollo con tecnologías como JavaScript, React, TypeScript, Postman entre otras, sino que también tuve la oportunidad de colaborar con pruebas unitarias y de integración para los componentes que generaba durante el desarrollo de las aplicaciones, para de esta forma prevenir los errores antes de su integración y lanzamiento a producción.
 
 # PROYECTOS
-QA Automation projects
+# QA Automation projects
 [QA-PROJECT-URBAN-ROUTES](https://github.com/AnnMtz/qa-project-Urban-Routes-es)
 
 [QA-Api-Stand-Test](https://github.com/AnnMtz/api_stand_tests)
 
-QA Manual project
-[Proyecto-QA-Urban-Grocers](https://github.com/AnnMtz/Proyecto-QA-Urban-Grocers)
+[QA-Manual-Project](https://github.com/AnnMtz/Proyecto-QA-Urban-Grocers)
 
 [Proyecto-Diseño-de-Urban-Routes](https://github.com/AnnMtz/Proyecto-QA-Dise-o-de-Urban-Routes)
 
