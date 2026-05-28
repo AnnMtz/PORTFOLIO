@@ -1,7 +1,7 @@
 # PORTFOLIO
 
 # ABOUT ME
-Soy un QA Engineer Junior en transición desde Software Developer, donde trabaje 3 años aproximadamente apoyando en la creación de aplicaciones web. Durante el bootcamp de QA Engineer de TripleTen, aprendí  a realizar pruebas funcionales, Web Testing y validación de APIs REST. Adquirí  conocimientos en automatización de pruebas UI y API utilizando Cypress, Selenium y Postman. Tengo experiencia en  diseño y ejecución de casos de prueba, pruebas de regresión, validación backend y documentación de defectos  mediante JIRA.
+Soy un QA Engineer Junior con experiencia en Software Developer, donde trabaje 3 años aproximadamente apoyando en la creación de aplicaciones web. Realicé un  bootcamp de QA Engineer de TripleTen, donde aprendí  a realizar pruebas funcionales, Web Testing y validación de APIs REST. Adquirí  conocimientos en automatización de pruebas UI y API utilizando Cypress, Selenium y Postman. Tengo experiencia en  diseño y ejecución de casos de prueba, pruebas de regresión, validación backend y documentación de defectos  mediante JIRA.
 
 Familiarizada con metodologías Agile/SCRUM, validación en ambientes QA/UAT y colaboración con equipos  de desarrollo para asegurar calidad continua durante el ciclo de vida del software. Background en desarrollo  frontend utilizando JavaScript, React y TypeScript, aportando visión técnica para análisis de flujos, validación  de integraciones y Quality Engineering. 
 
@@ -11,6 +11,17 @@ Algunos de mis proyectos incluyen pruebas funcionales a aplicaciones, así como 
 
 # MI EXPERIENCIA
 En mi último trabajo en ENCORA como web developer tuve la oportunidad de no solo realizar desarrollo con tecnologías como JavaScript, React, TypeScript, Postman entre otras, sino que también tuve la oportunidad de colaborar con pruebas unitarias y de integración para los componentes que generaba durante el desarrollo de las aplicaciones, para de esta forma prevenir los errores antes de su integración y lanzamiento a producción.
+
+# PROYECTOS
+QA Automation projects
+[QA-PROJECT-URBAN-ROUTES](https://github.com/AnnMtz/qa-project-Urban-Routes-es)
+
+[QA-Api-Stand-Test](https://github.com/AnnMtz/api_stand_tests)
+
+QA Manual project
+[Proyecto-QA-Urban-Grocers](https://github.com/AnnMtz/Proyecto-QA-Urban-Grocers)
+
+[Proyecto-Diseño-de-Urban-Routes](https://github.com/AnnMtz/Proyecto-QA-Dise-o-de-Urban-Routes)
 
 # QA & TESTING
 -  Manual Testing
