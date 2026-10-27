@@ -16,7 +16,7 @@ En mi último trabajo en ENCORA como web developer tuve la oportunidad de no sol
 # QA Automation projects
 [QA-PROJECT-URBAN-ROUTES](https://github.com/AnnMtz/qa-project-Urban-Routes-es)
 
-[QA-Api-Stand-Test](https://github.com/AnnMtz/api_stand_tests)
+[QA-URBAN-GROCERS-API](https://github.com/AnnMtz/API_URBAN_GROCERS)
 
 # QA Manual projects
 [QA-Urban-Grocers](https://github.com/AnnMtz/Proyecto-QA-Urban-Grocers)
